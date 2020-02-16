@@ -1,0 +1,8 @@
+# RESUME 
+## Wioletta Nosenko 
+* phone, telegram: +375296019352 (A1) 
+* mail: violetta.nosenko@gmail.com 
+### Summary 
+My purpose is to learn how to create quality web pages, my product must be pretty and logical constructed. I want to become demanded worker in this direction, because i love creative tasks. My features, that can help me to reach goal: responsability, creativity, thirst for knowledge, moderate perfectionism. 
+### Skills 
+Have experience in C, C++, Java, Assembler languages, in UML diagrams and sowtware requirements writing. Have skills in algothmics tasks. 
