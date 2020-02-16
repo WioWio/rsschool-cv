@@ -204,3 +204,12 @@ textField.setText(sDays);
 
 } 
 ``` 
+### Experience 
+* Addresbook in C++ and Qt with graphical interface 
+* Programm [Tendro](https://github.com/WioWio/Tendro) for calculating winners of tenders for belorussian state enterprises with gr.int. (Java 11, Eclipse, using MVC pattern). 
+* Unit tests for complex numbers calculator 
+### Education 
+2.5 years of bachelor at the Belorussian State University of informatics and radionics. 
+### Languages 
+* English: reading and writing intermediate level, speaking and listening pre-intermediate 
+* German: upper-intermediate
