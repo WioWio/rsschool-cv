@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://WioWio.github.io/rsschool-cv/cv
