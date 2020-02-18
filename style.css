@@ -1,0 +1,28 @@
+.content {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: "Segoe UI", "Helvetica", "Arial", sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: auto;
+}
+
+header {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5rem; 
+    text-align: center; 
+  }
+ 
+.person-image {
+    padding: 0.5rem;
+    border: 1px solid grey;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 3px 1px rgba(79, 79, 79, 0.64);
+  }
+  
+  .person-image img {
+    border-radius: 0.5rem;
+  }
